@@ -1,8 +1,13 @@
-• Software Development, studying Computer Engineering at Universidade Positivo. I consider myself passionate about new technologies on the market with learning day after day.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6height=120&section=header"/>
 
-• Focus on development ▪︎ JavaScript (React Native, Electron) ▪︎ Node.JS ▪︎ Python ▪︎ SQL ▪︎ Database and other technologies that I use in studies, projects and creation of web systems and artificial intelligence.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caroline+Barbosa;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-• I am agile and determined to learn new programming languages and adapt to any change, with the discipline to overcome any challenge.
-
-• If I could define myself in 3 words, they would certainly be: loyal, disciplined and persistent.
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
