@@ -13,6 +13,7 @@
 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,5 +22,4 @@
   <img align="center" alt="Joao-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
    <img align="center" alt="Joao-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
 </div>
