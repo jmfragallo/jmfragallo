@@ -3,7 +3,14 @@
 <div align="center">  
 <!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jmfragallo&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=aaaa4&text_color=c9d1d9&bg_color=0d1117" alt="Joao Fragallogithub stats" />  -->
 <!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfragallo&layout=compact&hide_border=true&title_color=FFFFFf&text_color=FFFFFf&bg_color=0d1117" /> -->
+
+ <div>
+<a href="https://github.com/jmfragallo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfragallo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jmfragallo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+</div>
+
 
 <div align="center"> 
 <a href="https://instagram.com/jmfragallo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
