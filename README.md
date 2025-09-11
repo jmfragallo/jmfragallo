@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  Olá me Chamo João Marcos, tenho 23 anos e sou Desenvolvedor Full Stack
+  Olá me Chamo João Marcos
 </h3>
 <div align="center">  
 <!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jmfragallo&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=aaaa4&text_color=c9d1d9&bg_color=0d1117" alt="Joao Fragallogithub stats" />  -->
@@ -36,3 +36,24 @@
    <img align="center" alt="Joao-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=currentColor"> 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
+
+<p align="center">
+  <a href="https://github.com/jmfragallo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmfragallo&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jmfragallo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmfragallo&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/jmfragallo"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jmfragallo&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/jmfragallo"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jmfragallo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![jmfragallo Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmfragallo&custom_title=Luiz%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
