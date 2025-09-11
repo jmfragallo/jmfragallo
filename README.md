@@ -4,7 +4,6 @@
 
 <p align="center">
   Sou desenvolvedor apaixonado por tecnologia, com experiência em <b>Java, Kotlin, Spring, React e Node.js</b>.  
-  Atualmente estudando <b>Engenharia da Computação</b> e sempre aberto a novas oportunidades 🚀
 </p>
 
 ---
