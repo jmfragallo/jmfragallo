@@ -58,6 +58,5 @@
 </div>
 
 ---
-
 ## 📈 Atividade
 ![jmfragallo Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmfragallo&custom_title=jmfragallo%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=2ea043&area_color=2ea043&title_color=58a6ff&area=true) -->
