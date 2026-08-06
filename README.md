@@ -56,7 +56,6 @@
     <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jmfragallo&langs_count=8&layout=compact&theme=github_dark&title_color=58a6ff&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117" height="192px"/>
   </a>
 </div>
-
 ---
 ## 📈 Atividade
 ![jmfragallo Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmfragallo&custom_title=jmfragallo%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=2ea043&area_color=2ea043&title_color=58a6ff&area=true) -->
